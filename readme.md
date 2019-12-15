@@ -1,7 +1,7 @@
 # statistical_analysis_cypher
 WF application that implements tools for statistical analysis of a text alongside with several ciphers
 
-![MainForm](https://raw.githubusercontent.com/lion223/statistic_analysis_cypher/master/MainForm.jpg)
+![MainForm](https://raw.githubusercontent.com/lion223/statistical_analysis_cypher/master/MainForm.jpg)
 
 Features:
 + Statistical analysis 
