@@ -1,0 +1,14 @@
+W:\vs_sources\C#\Nulp\DIT\DIT\bin\Release\DIT.exe.config
+W:\vs_sources\C#\Nulp\DIT\DIT\bin\Release\DIT.exe
+W:\vs_sources\C#\Nulp\DIT\DIT\bin\Release\DIT.pdb
+W:\vs_sources\C#\Nulp\DIT\DIT\bin\Release\MetroFramework.Design.dll
+W:\vs_sources\C#\Nulp\DIT\DIT\bin\Release\MetroFramework.dll
+W:\vs_sources\C#\Nulp\DIT\DIT\bin\Release\MetroFramework.Fonts.dll
+W:\vs_sources\C#\Nulp\DIT\DIT\bin\Release\System.Numerics.dll
+W:\vs_sources\C#\Nulp\DIT\DIT\obj\Release\DIT.csproj.ResolveComReference.cache
+W:\vs_sources\C#\Nulp\DIT\DIT\obj\Release\DIT.MainForm.resources
+W:\vs_sources\C#\Nulp\DIT\DIT\obj\Release\DIT.Properties.Resources.resources
+W:\vs_sources\C#\Nulp\DIT\DIT\obj\Release\DIT.csproj.GenerateResource.Cache
+W:\vs_sources\C#\Nulp\DIT\DIT\obj\Release\DIT.csproj.CoreCompileInputs.cache
+W:\vs_sources\C#\Nulp\DIT\DIT\obj\Release\DIT.exe
+W:\vs_sources\C#\Nulp\DIT\DIT\obj\Release\DIT.pdb
